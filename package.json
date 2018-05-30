@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon server.js"
   },
-  "author": "",
+  "author": "himanshu pandey",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
